@@ -1,0 +1,47 @@
+.light-theme {
+    color: #000000;
+    background: #AB9D37;
+  }
+
+.e3_11 { 
+	width:1200px;
+	height:667px;
+	position:absolute;
+}
+.e1_4 { 
+	width:640px;
+	height:360px;
+	position:absolute;
+	left:281px;
+	top:137px;
+	background-image:url(images/saul_2000_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.e6_5 { 
+	color:#000000;
+	width:918px;
+	height: 150px;px;
+	position:absolute;
+	left:200px;
+	top:594px;
+	font-family:Inter;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:0;
+}
+
+
+.e1_5 { 
+	color:#000000;
+	width:1200px;
+	height:50px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Inter;
+	text-align:center;
+	font-size:60px;
+	letter-spacing:0;
+}
